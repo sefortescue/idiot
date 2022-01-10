@@ -1,5 +1,5 @@
 ---
 layout: page
 title: Main
-permalink: /
+permalink: https://samfortescue.com/
 ---
