@@ -1,5 +1,5 @@
 ---
-layout: page
 title: Main
-permalink: https://samfortescue.com/
+redirect: https://samfortescue.com
+layout: redirect
 ---
