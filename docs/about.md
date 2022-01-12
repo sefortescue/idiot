@@ -59,7 +59,7 @@ Clearly it's not my place to call **everyone** in the world an idiot, even if it
 
 >"Wait a minute... are you just looking for justification to do stupid things?"
 
-Sort of -- well yes -- but also not really. Depends on the thing I guess. Knowledge is funny. If we think we already know something, then we're probably further away from actually knowing it then we would be if we maintained an outlook of perpetual ignorance. Recognition of our own stupidity is a necessary initial condition for any sort of meaningful learning. After that self-belief is what matters. Perhaps it's important to differentiate between being stupid in order to learn, and taking stupid actions; in fact maybe the former prevents the latter. 
+Sort of -- well yes -- but also not really -- and no. Depends on the thing I guess. Knowledge is funny. If we think we already know something, then we're probably further away from actually knowing it then we would be if we maintained an outlook of perpetual ignorance. Recognition of our own stupidity is a necessary initial condition for any sort of meaningful learning. After that self-belief is what matters. Perhaps it's important to differentiate between being stupid in order to learn, and taking stupid actions; in fact maybe the former prevents the latter. 
 
 >"Ever wonder if maybe you think too much?"
 
