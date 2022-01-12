@@ -23,7 +23,7 @@ permalink: /about/
   });
 </script>
 
-*idiot!* is a blog about life. Or one life. The life of an idiot; and all of the idiotic things rushing through about their brain on a daily basis.
+*idiot!* is a blog about life. Or one life. The life of an idiot; and all of the idiotic things rushing through and about their brain on a daily basis.
 
 >"Wait so... are you the idiot in 'idiot!'?"
 
