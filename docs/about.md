@@ -51,7 +51,7 @@ As the relationship between current knowledge and all knowledge is probably dire
 
 >"So in comparison to what you do know, what you don't know is of such magnitude that proportionally you know nothing and therefore are an idiot?"
 
-Precisely. I suppose we could consider the reciprocal of $\eqref{eq:t1}$, then it wouldn't really be a proportion anymore, I would just be divergently stupid. 
+Precisely. I suppose we could consider the reciprocal of $\eqref{eq:t1}$, then it wouldn't really be a proportion anymore; I would just be divergently stupid. 
 
 >"By that logic, wouldn't everyone be an idiot?"
 
