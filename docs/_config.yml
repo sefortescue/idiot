@@ -31,7 +31,7 @@ kramdown:
   math_engine: mathjax
 
 disqus:
-  shortname: disqus_2Tz9ay5Pbk
+  shortname: https-samfortescue-com-idiot
 
 # Build settings
 theme: minima
