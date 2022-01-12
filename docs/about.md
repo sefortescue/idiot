@@ -23,11 +23,11 @@ permalink: /about/
   });
 </script>
 
-*idiot!* is a blog about life. Or one life. The life of an idiot; and all of the idiotic things they think about on a daily basis.
+*idiot!* is a blog about life. Or one life. The life of an idiot; and all of the idiotic things rushing through about their brain on a daily basis.
 
->"So... you're the idiot in 'idiot!'?"
+>"Wait so... are you the idiot in 'idiot!'?"
 
-That's the idea. We can think about individual knowledge as a proportion, with instantaneous constant of knowledge $c$ in the numerator, and all obtainable knowledge $x$ in the denomintor.
+That's the idea. We can think about my knowledge as a proportion, with an instantaneous constant of knowledge $c$ in the numerator, and all obtainable knowledge $x$ in the denomintor.
 
 $$
 \begin{align}
@@ -37,7 +37,7 @@ $$
 \end{align}
 $$
 
-There are always more things to know, so of course $x$ grows very large, hence the limit. One could probably make a similar argument in the ratio of $c$ to some function of itself, e.g.
+There are always more things to know, so of course $x$ grows very large, hence the limit. One could make a similar argument in the ratio of $c$ to some function of itself, e.g.
 
 $$
 \begin{align}
@@ -51,9 +51,14 @@ As the relationship between current knowledge and all knowledge is probably dire
 
 >"So in comparison to what you do know, what you don't know is of such magnitude that proportionally you know nothing and therefore are an idiot?"
 
-Precisely. I suppose we could take the reciprocal of $\eqref{eq:t1}$, then it wouldn't really be a proportion anymore, I would just be divergently stupid. 
+Precisely. I suppose we could consider the reciprocal of $\eqref{eq:t1}$, then it wouldn't really be a proportion anymore, I would just be divergently stupid. 
 
->"Wait a minute... are you just looking for justification to do and say stupid things?"
+>"By that logic, wouldn't everyone be an idiot?"
 
-Sort of -- well yes -- but actually not really. Knowledge is a funny thing. Belief.
+Clearly it's not my place to call **everyone** in the world an idiot, even if it's true.
 
+>"Wait a minute... are you just looking for justification to do stupid things?"
+
+Sort of -- well yes -- but also not really. Depends on the thing I guess. Knowledge is a funny thing. If we think we already know something, then we're probably further away from actually knowing it then we would be if we maintained an outlook of perpetual ignorance. Recognition of our own stupidity is a necessary initial condition for any sort of meaningful learning. After that self-belief is the thing that matters. Perhaps it's important to differentiate between being stupid in order to learn, and taking stupid actions; in fact maybe the former prevents the latter. 
+
+>"Think maybe you think too much?"
