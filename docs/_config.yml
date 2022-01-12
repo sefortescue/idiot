@@ -30,6 +30,9 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
 
+disqus:
+  shortname: disqus_2Tz9ay5Pbk
+
 # Build settings
 theme: minima
 plugins:
