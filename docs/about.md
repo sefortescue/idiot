@@ -27,7 +27,7 @@ permalink: /about/
 
 >"Wait so... are you the idiot in 'idiot!'?"
 
-That's the idea. We can think about my knowledge as a proportion, with an instantaneous constant of knowledge $c$ in the numerator, and all obtainable knowledge $x$ in the denomintor.
+That's the idea. We can think about my knowledge as a proportion, with an instantaneous constant of knowledge $c$ in the numerator, and all obtainable knowledge $x$ in the denominator, i.e.
 
 $$
 \begin{align}
@@ -42,7 +42,7 @@ There are always more things to know, so of course $x$ grows very large, hence t
 $$
 \begin{align}
 
-\frac{c}{c!+\dots}
+\frac{c}{c!+\dots} \label{eq:t2}
 
 \end{align}
 $$
@@ -63,4 +63,8 @@ Sort of -- well yes -- but also not really -- and no. Depends on the thing I gue
 
 >"Ever wonder if maybe you think too much?"
 
-All the time. As this blog grows, it'll probably just become a catalog of all the things I've overthought; and maybe some math.
+All the time. As this blog grows, it'll probably just become a catalog of all the things I've overthought.
+
+>"Can you talk more about the second expression above? I'm sure other exceedingly-normal-people like me, the voice in your head, would really like that."
+
+Absolutely. It's difficult to approximate the true growth in things that there are to know everytime we learn something knew. It's even difficult to define exactly what we are counting. Intuitively it just seems to me like this effect should be present. Of course, how the effect is present for every different kind of knowledge makes modelling extremely difficult. In $\eqref{eq:t2}$ I say that perhaps for an increase in $c$ there is an increase of $c!$ in what would be $x$. I also made the denominator term additive since an increase of $c!$ may not be the only effect. I'll leave it up to you to speculate what other sort of ratios may be plausible, but really the point of stating the above expressions is not to be mathematically accurate; the idea is more of a thought experiment.

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "People Aren't Puzzels"
 ---
 
